@@ -1,7 +1,7 @@
 # Email Marketing Campaign
 
 
-colab link : https://colab.research.google.com/drive/1WcgQZtayEqI3veXrXvUI8oc39kfnzn8H?usp=sharing
+colab link : https://colab.research.google.com/drive/1WcgQZtayEqI3veXrXvUI8oc39kfnzn8H?usp=sharing    [The colab link contains proper visualizations of the patterns explored]
 
 Answering the questions given in the assigment:
 
